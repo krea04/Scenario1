@@ -1,0 +1,8 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": ""
+  },
+  "Data": {
+    "WorldContextConnection": "Server=FIREHOST-PC\\INTERVIEW;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  }
+}
